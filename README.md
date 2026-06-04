@@ -1,4 +1,4 @@
-# PSL Project 3 — Movie Review Sentiment Analysis
+# Movie Review Sentiment Analysis
 
 **Course:** CS 598 Practical Statistical Learning, University of Illinois Urbana-Champaign  
 **Term:** Fall 2022  
